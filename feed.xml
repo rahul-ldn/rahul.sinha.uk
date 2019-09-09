@@ -3,87 +3,82 @@
     <title>On a Starboard Tack</title>
     <link href="http://rahul.sinha.uk/feed.xml" rel="self" />
     <link href="http://rahul.sinha.uk" />
-    <updated>2019-09-09T12:20:12+01:00</updated>
+    <updated>2019-09-09T12:34:27+01:00</updated>
     <author>
         <name>Rahul Sinha</name>
     </author>
     <id>http://rahul.sinha.uk</id>
 
     <entry>
-        <title>Alpha House Directions</title>
+        <title>Directions</title>
         <author>
             <name>Rahul Sinha</name>
         </author>
         <link href="http://rahul.sinha.uk/alpha-house-directions.html"/>
         <id>http://rahul.sinha.uk/alpha-house-directions.html</id>
 
-        <updated>2019-09-09T12:16:25+01:00</updated>
+        <updated>2019-09-09T12:34:23+01:00</updated>
             <summary>
                 <![CDATA[
-                    From the Tube, or points North and East From points South From&hellip;
+                    From the Tube, or points North and East 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <table style="width: 681px;">
-<tbody>
-<tr>
-<td style="width: 291.984px;">
-<p><strong>From the Tube, or points North and East</strong></p>
+                <div class="post__toc">
+<h3>Please use the directions corresponding to your entry into Brixton</h3>
+<ul>
+<li><a href="#mcetoc_1dkasamlm2">From the Tube, or points North and East</a></li>
+<li><a href="#mcetoc_1dkasb5o83">From points South</a></li>
+<li><a href="#mcetoc_1dkasbj0g4">From points West</a>
+<ul>
+<li><a href="#mcetoc_1dkash5imr">If coming through northern Clapham</a></li>
+<li><a href="#mcetoc_1dkasg163p">If coming through southern Clapham</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1dkascrhgh">From the Gate</a></li>
+</ul>
+</div>
+<hr>
+<h3 id="mcetoc_1dkasamlm2"><strong>From the Tube, or points North and East</strong></h3>
+<p><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-North-East-Tube.png" alt="Directions from the North, East, or the Tube" width="2700" height="1470"></p>
 <ul>
 <li>From Brixton Road, go west along Ferndale</li>
 <li>Turn left on Allardyce</li>
-<li>Walk straight to the Gate at the end of the street</li>
+<li>Walk straight to the Gate at the end of the street<hr></li>
 </ul>
-</td>
-<td style="width: 384.016px;"><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-North-East-Tube.png" alt="Directions from the North, East, or the Tube" width="2700" height="1470"></td>
-</tr>
-<tr>
-<td style="width: 291.984px;">
-<p><strong>From points South</strong></p>
+<h3 id="mcetoc_1dkasb5o83"><strong>From points South</strong></h3>
+<p><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-points-South.png" alt="Directions from points South" width="2700" height="1903"></p>
 <ul>
 <li>Walk up Brixton Road</li>
 <li>Turn left on to Baytree</li>
 <li>Cross Acre Lane, and walk up Concannon, which begins to the left</li>
 <li>Turn right on Santley</li>
-<li>Turn right into the Gate at Allardyce</li>
+<li>Turn right into the Gate at Allardyce<hr></li>
 </ul>
-</td>
-<td style="width: 384.016px;"><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-points-South.png" alt="Directions from points South" width="2700" height="1903"></td>
-</tr>
-<tr>
-<td style="width: 291.984px;">
-<p><strong>From points West</strong></p>
-<p><em>If coming through northern Clapham</em></p>
+<h3 id="mcetoc_1dkasbj0g4"><strong>From points West</strong></h3>
+<p id="mcetoc_1dkashvnf10"><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-West.png" alt="Directions from points West" width="2700" height="1700"></p>
+<h5 id="mcetoc_1dkash5imr"><em>If coming through northern Clapham</em></h5>
 <ul>
 <li>Come down Ferndale</li>
 <li>Turn right on Allardyce</li>
 <li>Walk straight to the Gate at the end of the street</li>
 </ul>
-<p><em>If coming through southern Clapham</em></p>
+<h5 id="mcetoc_1dkasg163p">If coming through southern Clapham</h5>
 <ul>
 <li>Come up Acre Lane</li>
 <li>Turn left on Concannon</li>
 <li>Turn right on Santley</li>
-<li>Turn right into the Gate at Allardyce</li>
+<li>Turn right into the Gate at Allardyce<hr></li>
 </ul>
-</td>
-<td style="width: 384.016px;"><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-West.png" alt="Directions from points West" width="2700" height="1700"></td>
-</tr>
-<tr>
-<td style="width: 291.984px;">
-<p><strong>From the Gate</strong></p>
+<h3 id="mcetoc_1dkascrhgh"><strong>From the Gate</strong></h3>
+<p><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-Gate.png" alt="Directions from the Gate" width="2707" height="1946"></p>
 <ul>
 <li>Right the appropriate flat from the Gate call box</li>
 <li>Once the door is unlocked, walk to the left and around the building.</li>
 <li>Walk to the entrance labelled "Girls" and ring the appropriate flat from the exterior door call box.</li>
 <li>The common area light is on your right.</li>
 </ul>
-</td>
-<td style="width: 384.016px;"><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-Gate.png" alt="Directions from the Gate" width="2707" height="1946"></td>
-</tr>
-</tbody>
-</table>
 <p> </p>
             ]]>
         </content>
