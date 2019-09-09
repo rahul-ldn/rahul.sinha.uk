@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>On a Starboard Tack</title>
+    <link href="http://rahul.sinha.uk/feed.xml" rel="self" />
+    <link href="http://rahul.sinha.uk" />
+    <updated>2019-09-09T12:16:34+01:00</updated>
+    <author>
+        <name>Rahul Sinha</name>
+    </author>
+    <id>http://rahul.sinha.uk</id>
+
+    <entry>
+        <title>Alpha House Directions</title>
+        <author>
+            <name>Rahul Sinha</name>
+        </author>
+        <link href="http://rahul.sinha.uk/alpha-house-directions.html"/>
+        <id>http://rahul.sinha.uk/alpha-house-directions.html</id>
+
+        <updated>2019-09-09T12:16:25+01:00</updated>
+            <summary>
+                <![CDATA[
+                    From the Tube, or points North and East From points South From&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table style="width: 681px;">
+<tbody>
+<tr>
+<td style="width: 291.984px;">
+<p><strong>From the Tube, or points North and East</strong></p>
+<ul>
+<li>From Brixton Road, go west along Ferndale</li>
+<li>Turn left on Allardyce</li>
+<li>Walk straight to the Gate at the end of the street</li>
+</ul>
+</td>
+<td style="width: 384.016px;"><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-North-East-Tube.png" alt="Directions from the North, East, or the Tube" width="2700" height="1470"></td>
+</tr>
+<tr>
+<td style="width: 291.984px;">
+<p><strong>From points South</strong></p>
+<ul>
+<li>Walk up Brixton Road</li>
+<li>Turn left on to Baytree</li>
+<li>Cross Acre Lane, and walk up Concannon, which begins to the left</li>
+<li>Turn right on Santley</li>
+<li>Turn right into the Gate at Allardyce</li>
+</ul>
+</td>
+<td style="width: 384.016px;"><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-points-South.png" alt="Directions from points South" width="2700" height="1903"></td>
+</tr>
+<tr>
+<td style="width: 291.984px;">
+<p><strong>From points West</strong></p>
+<p><em>If coming through northern Clapham</em></p>
+<ul>
+<li>Come down Ferndale</li>
+<li>Turn right on Allardyce</li>
+<li>Walk straight to the Gate at the end of the street</li>
+</ul>
+<p><em>If coming through southern Clapham</em></p>
+<ul>
+<li>Come up Acre Lane</li>
+<li>Turn left on Concannon</li>
+<li>Turn right on Santley</li>
+<li>Turn right into the Gate at Allardyce</li>
+</ul>
+</td>
+<td style="width: 384.016px;"><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-West.png" alt="Directions from points West" width="2700" height="1700"></td>
+</tr>
+<tr>
+<td style="width: 291.984px;">
+<p><strong>From the Gate</strong></p>
+<ul>
+<li>Right the appropriate flat from the Gate call box</li>
+<li>Once the door is unlocked, walk to the left and around the building.</li>
+<li>Walk to the entrance labelled "Girls" and ring the appropriate flat from the exterior door call box.</li>
+<li>The common area light is on your right.</li>
+</ul>
+</td>
+<td style="width: 384.016px;"><img class="post__image" src="http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-Gate.png" alt="Directions from the Gate" width="2707" height="1946"></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

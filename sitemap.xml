@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://rahul.sinha.uk/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>http://rahul.sinha.uk/</loc>
+</url>
+<url>
+<loc>http://rahul.sinha.uk/alpha-house-directions.html</loc>
+<lastmod>2019-09-09T12:16:25+01:00</lastmod>
+<image:image>
+<image:loc>http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-North-East-Tube.png</image:loc>
+<image:title><![CDATA[Directions from the North, East, or the Tube]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-points-South.png</image:loc>
+<image:title><![CDATA[Directions from points South]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-West.png</image:loc>
+<image:title><![CDATA[Directions from points West]]></image:title>
+</image:image>
+<image:image>
+<image:loc>http://rahul.sinha.uk/media/posts/1/Alpha-House-Directions-from-Gate.png</image:loc>
+<image:title><![CDATA[Directions from the Gate]]></image:title>
+</image:image>
+</url>
+</urlset>
